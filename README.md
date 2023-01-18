@@ -1,4 +1,4 @@
-# SubUx "Django Blog Beginner" kursi.
+# SubUx "Django Beginner" kursi.
 
 ## Kurs haqida:
 
